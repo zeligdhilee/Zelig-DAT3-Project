@@ -1,0 +1,396 @@
+﻿VolcanoNumber,VolcanoName,Country,Emission ID,Emission Detail ID,Platform,Date Start,SO2Mass,AssumedSO2Altitude
+353060,"Azul, Cerro",Ecuador,316,10,Nimbus-7 TOMS,19790201,358,2
+360150,Soufrière St. Vincent,Saint Vincent and the Grenadines,349,12,Nimbus-7 TOMS,19790413,3,18
+353050,"Negra, Sierra",Ecuador,314,14,Nimbus-7 TOMS,19791113,2524,14
+311310,Makushin,United States,215,16,Nimbus-7 TOMS,19800501,10,12
+321050,St. Helens,United States,233,17,Nimbus-7 TOMS,19800518,775,27
+321050,St. Helens,United States,233,18,Nimbus-7 TOMS,19800525,100,14
+321050,St. Helens,United States,234,19,Nimbus-7 TOMS,19800613,35,16
+372070,Hekla,Iceland,351,21,Nimbus-7 TOMS,19800818,460,15
+252120,Ulawun,Papua New Guinea,91,25,Nimbus-7 TOMS,19801007,200,20
+284170,Pagan,United States,172,30,Nimbus-7 TOMS,19810515,320,20
+341120,"Chichón, El",Mexico,276,33,Nimbus-7 TOMS,19820329,750,17
+341120,"Chichón, El",Mexico,276,34,Nimbus-7 TOMS,19820403,340,17
+341120,"Chichón, El",Mexico,276,35,Nimbus-7 TOMS,19820404,7000,28
+263140,Galunggung,Indonesia,114,45,Nimbus-7 TOMS,19820624,430,14
+263140,Galunggung,Indonesia,116,50,Nimbus-7 TOMS,19820815,10,14
+263140,Galunggung,Indonesia,116,51,Nimbus-7 TOMS,19820825,15,12.2
+263140,Galunggung,Indonesia,116,52,Nimbus-7 TOMS,19820827,20,10
+266030,Soputan,Indonesia,130,53,Nimbus-7 TOMS,19820827,90,15
+263140,Galunggung,Indonesia,116,54,Nimbus-7 TOMS,19820829,10,12.2
+353020,Wolf,Ecuador,312,55,Nimbus-7 TOMS,19820829,1080,4
+263140,Galunggung,Indonesia,116,56,Nimbus-7 TOMS,19820830,15,12.2
+263140,Galunggung,Indonesia,116,57,Nimbus-7 TOMS,19820901,15,14
+263140,Galunggung,Indonesia,116,58,Nimbus-7 TOMS,19820904,10,12.2
+263140,Galunggung,Indonesia,116,59,Nimbus-7 TOMS,19820914,10,12.2
+263140,Galunggung,Indonesia,116,60,Nimbus-7 TOMS,19820916,10,12.2
+263140,Galunggung,Indonesia,116,61,Nimbus-7 TOMS,19820918,15,4
+224010,Cameroon,Cameroon,55,62,Nimbus-7 TOMS,19821018,3,9.1
+266030,Soputan,Indonesia,131,64,Nimbus-7 TOMS,19821110,13,11.8
+332010,Kilauea,United States,235,65,Nimbus-7 TOMS,19830329,1,5.2
+332010,Kilauea,United States,236,67,Nimbus-7 TOMS,19830703,5.5,5.2
+266010,Colo,Indonesia,129,69,Nimbus-7 TOMS,19830724,200,15
+266030,Soputan,Indonesia,132,83,Nimbus-7 TOMS,19840524,166,16
+272020,Kanlaon,Philippines,158,100,Nimbus-7 TOMS,19850314,10,12.4
+266030,Soputan,Indonesia,134,102,Nimbus-7 TOMS,19850520,12,11.8
+300250,Bezymianny,Russia,192,104,Nimbus-7 TOMS,19850701,10,12.9
+351020,"Ruiz, Nevado del",Colombia,296,108,Nimbus-7 TOMS,19850912,90,15
+351020,"Ruiz, Nevado del",Colombia,297,112,Nimbus-7 TOMS,19851114,660,25
+332010,Kilauea,United States,265,117,Nimbus-7 TOMS,19860322,5.4,5.2
+313010,Augustine,United States,225,118,Nimbus-7 TOMS,19860327,20,15
+312030,Pavlof,United States,218,120,Nimbus-7 TOMS,19860419,70,16
+257040,Ambrym,Vanuatu,101,125,Nimbus-7 TOMS,19861115,10,11.3
+223020,Nyamuragira,DR Congo,41,131,Nimbus-7 TOMS,19871231,28,4
+265090,Banda Api,Indonesia,128,132,Nimbus-7 TOMS,19880509,250,16
+268070,Makian,Indonesia,157,133,Nimbus-7 TOMS,19880729,50,16
+342110,Pacaya,Guatemala,285,136,Nimbus-7 TOMS,19890309,1,3
+351020,"Ruiz, Nevado del",Colombia,298,139,Nimbus-7 TOMS,19890901,12,15.3
+300260,Klyuchevskoy,Russia,201,143,Nimbus-7 TOMS,19900130,10,10
+273083,Pinatubo,Philippines,165,148,Nimbus-7 TOMS,19910613,140,19
+273083,Pinatubo,Philippines,165,149,Nimbus-7 TOMS,19910614,54,25
+273083,Pinatubo,Philippines,165,150,Nimbus-7 TOMS,19910615,18000,25
+223020,Nyamuragira,DR Congo,43,154,Nimbus-7 TOMS,19910922,858,4
+353080,Marchena,Ecuador,319,155,Nimbus-7 TOMS,19910926,200,2
+313040,Spurr,United States,230,158,Nimbus-7 TOMS,19920627,250,18
+313040,Spurr,United States,232,160,Nimbus-7 TOMS,19920917,250,15
+355100,Lascar,Chile,320,161,Nimbus-7 TOMS,19930419,450,16
+264030,Rinjani,Indonesia,125,162,Meteor-3 TOMS,19940603,10,10
+223020,Nyamuragira,DR Congo,44,163,Meteor-3 TOMS,19940705,1514,4
+252140,Rabaul,Papua New Guinea,96,164,Meteor-3 TOMS,19940919,200,20
+300260,Klyuchevskoy,Russia,202,165,Meteor-3 TOMS,19941001,150,15
+241100,Ruapehu,New Zealand,77,167,Earth Probe TOMS,19960720,10,11
+373010,Grímsvötn,Iceland,356,168,Earth Probe TOMS,19961002,10,10
+251020,Manam,Papua New Guinea,80,170,Earth Probe TOMS,19970208,3,16
+341090,Popocatepetl,Mexico,271,171,Earth Probe TOMS,19970703,7,13
+360050,Soufrière Hills,United Kingdom,335,173,Earth Probe TOMS,19980703,2,12
+353060,"Azul, Cerro",Ecuador,317,174,Earth Probe TOMS,19980915,714,15
+251020,Manam,Papua New Guinea,81,175,Earth Probe TOMS,19981005,17,16
+360050,Soufrière Hills,United Kingdom,336,177,Earth Probe TOMS,19981112,9,8
+341090,Popocatepetl,Mexico,272,178,Earth Probe TOMS,19981125,10,15.5
+352080,Tungurahua,Ecuador,302,182,Earth Probe TOMS,19991116,6,15
+360050,Soufrière Hills,United Kingdom,338,185,Earth Probe TOMS,20000320,3.4,9
+252120,Ulawun,Papua New Guinea,93,188,Earth Probe TOMS,20000928,37,16
+341090,Popocatepetl,Mexico,273,189,Earth Probe TOMS,20001215,23,15.5
+341090,Popocatepetl,Mexico,273,190,Earth Probe TOMS,20001219,26,15.5
+311240,Cleveland,United States,211,193,Earth Probe TOMS,20010219,6,10
+341090,Popocatepetl,Mexico,275,194,Earth Probe TOMS,20010429,4,9
+252120,Ulawun,Papua New Guinea,94,195,Earth Probe TOMS,20010430,30,14
+252120,Ulawun,Papua New Guinea,95,202,Earth Probe TOMS,20020827,10,12.3
+267010,Ruang,Indonesia,153,203,Earth Probe TOMS,20020926,80,22
+352010,Reventador,Ecuador,300,205,Earth Probe TOMS,20021103,84,17
+263100,Papandayan,Indonesia,112,206,Earth Probe TOMS,20021113,7,12.7
+233020,"Fournaise, Piton de la",France,61,207,Earth Probe TOMS,20021117,4,7.6
+352080,Tungurahua,Ecuador,304,208,Earth Probe TOMS,20030308,12,15
+360050,Soufrière Hills,United Kingdom,340,232,Earth Probe TOMS,20030713,100,16
+300250,Bezymianny,Russia,193,233,Earth Probe TOMS,20030726,2,11
+268060,Gamalama,Indonesia,155,234,Earth Probe TOMS,20030731,5,11.7
+300250,Bezymianny,Russia,194,236,Earth Probe TOMS,20040114,1,6
+360050,Soufrière Hills,United Kingdom,341,237,Earth Probe TOMS,20040303,5,7
+223020,Nyamuragira,DR Congo,50,238,Earth Probe TOMS,20040508,2587,4
+300270,Sheveluch,Russia,206,239,Earth Probe TOMS,20040510,1,11
+300250,Bezymianny,Russia,195,241,Earth Probe TOMS,20040619,1,10
+351080,Galeras,Colombia,299,242,Earth Probe TOMS,20040812,3,11
+233020,"Fournaise, Piton de la",France,62,246,Aura OMI,20041002,0.5,7.6
+266030,Soputan,Indonesia,136,247,Aura OMI,20041018,10,11.8
+251020,Manam,Papua New Guinea,84,255,Aura OMI,20041220,38,17
+251020,Manam,Papua New Guinea,85,256,Aura OMI,20050128,140,24
+290360,Chikurachki,Russia,177,258,Aura OMI,20050312,5,5
+284200,Anatahan,United States,174,259,Aura OMI,20050405,75,16
+284200,Anatahan,United States,174,260,Aura OMI,20050406,20,3
+284200,Anatahan,United States,174,261,Aura OMI,20050407,20,4
+284200,Anatahan,United States,174,262,Aura OMI,20050408,20,4
+284200,Anatahan,United States,174,263,Aura OMI,20050409,20,3
+284200,Anatahan,United States,174,264,Aura OMI,20050410,20,3
+284200,Anatahan,United States,174,265,Aura OMI,20050411,20,3
+284200,Anatahan,United States,174,266,Aura OMI,20050412,1,3
+261160,Talang,Indonesia,111,267,Aura OMI,20050412,1,8
+284200,Anatahan,United States,174,268,Aura OMI,20050413,3,3
+284200,Anatahan,United States,174,269,Aura OMI,20050414,1.4,3
+284200,Anatahan,United States,174,270,Aura OMI,20050415,2,3
+284200,Anatahan,United States,174,271,Aura OMI,20050416,1.1,6
+284200,Anatahan,United States,174,272,Aura OMI,20050417,3.6,3
+284200,Anatahan,United States,174,274,Aura OMI,20050418,8,3
+284200,Anatahan,United States,174,275,Aura OMI,20050419,2.4,3
+284200,Anatahan,United States,174,276,Aura OMI,20050420,7.1,3
+266030,Soputan,Indonesia,138,277,Aura OMI,20050420,1.5,3
+284200,Anatahan,United States,174,278,Aura OMI,20050421,2.8,3
+284200,Anatahan,United States,174,279,Aura OMI,20050422,7.8,3
+284200,Anatahan,United States,174,280,Aura OMI,20050423,11,3
+284200,Anatahan,United States,174,281,Aura OMI,20050424,12,3
+284200,Anatahan,United States,174,282,Aura OMI,20050425,8.8,3
+284200,Anatahan,United States,174,283,Aura OMI,20050426,3.3,3
+284200,Anatahan,United States,174,284,Aura OMI,20050427,3.3,3
+284200,Anatahan,United States,174,285,Aura OMI,20050428,9.1,3
+284200,Anatahan,United States,174,286,Aura OMI,20050429,18,3
+284200,Anatahan,United States,174,287,Aura OMI,20050430,12,3
+284200,Anatahan,United States,174,288,Aura OMI,20050501,17,3
+284200,Anatahan,United States,174,289,Aura OMI,20050502,11,6
+284200,Anatahan,United States,174,290,Aura OMI,20050503,19,7
+355100,Lascar,Chile,321,291,Aura OMI,20050504,3,10
+284200,Anatahan,United States,174,292,Aura OMI,20050504,7,6
+284200,Anatahan,United States,174,293,Aura OMI,20050505,18,6
+284200,Anatahan,United States,174,294,Aura OMI,20050506,9.2,6
+284200,Anatahan,United States,174,295,Aura OMI,20050507,4.4,5
+284200,Anatahan,United States,174,296,Aura OMI,20050508,15,5
+284200,Anatahan,United States,174,297,Aura OMI,20050509,8.1,5
+284200,Anatahan,United States,174,298,Aura OMI,20050510,11,3
+284200,Anatahan,United States,174,299,Aura OMI,20050511,7.7,4
+284200,Anatahan,United States,174,300,Aura OMI,20050512,16,4
+284200,Anatahan,United States,174,301,Aura OMI,20050513,19,3
+284200,Anatahan,United States,174,303,Aura OMI,20050514,15,3
+284200,Anatahan,United States,174,304,Aura OMI,20050515,6.7,3
+284200,Anatahan,United States,174,305,Aura OMI,20050516,1.2,3
+284200,Anatahan,United States,174,306,Aura OMI,20050517,6.2,3
+284200,Anatahan,United States,174,307,Aura OMI,20050518,0.1,3
+284200,Anatahan,United States,174,308,Aura OMI,20050519,12,3
+284200,Anatahan,United States,174,309,Aura OMI,20050520,4.8,3
+284200,Anatahan,United States,174,310,Aura OMI,20050521,12,3
+284200,Anatahan,United States,174,311,Aura OMI,20050522,14,3
+284200,Anatahan,United States,174,312,Aura OMI,20050523,13,3
+284200,Anatahan,United States,174,313,Aura OMI,20050524,38,3
+284200,Anatahan,United States,174,314,Aura OMI,20050525,18,3
+284200,Anatahan,United States,174,315,Aura OMI,20050526,12,7
+284200,Anatahan,United States,174,316,Aura OMI,20050527,13,7
+284200,Anatahan,United States,174,317,Aura OMI,20050528,3,6
+284200,Anatahan,United States,174,318,Aura OMI,20050529,3,5
+284200,Anatahan,United States,174,319,Aura OMI,20050530,1.4,4
+284200,Anatahan,United States,174,320,Aura OMI,20050531,7.3,4
+284200,Anatahan,United States,174,321,Aura OMI,20050601,8.2,5
+284200,Anatahan,United States,174,322,Aura OMI,20050602,5.6,5
+284200,Anatahan,United States,174,323,Aura OMI,20050603,5.3,5
+284200,Anatahan,United States,174,324,Aura OMI,20050604,7.1,5
+284200,Anatahan,United States,174,325,Aura OMI,20050605,7.2,5
+284200,Anatahan,United States,174,326,Aura OMI,20050606,14,8
+284200,Anatahan,United States,174,327,Aura OMI,20050607,17,5
+284200,Anatahan,United States,174,328,Aura OMI,20050608,11,5
+284200,Anatahan,United States,174,329,Aura OMI,20050609,16,9
+284200,Anatahan,United States,174,330,Aura OMI,20050610,2,9
+284200,Anatahan,United States,174,331,Aura OMI,20050611,52,14
+284200,Anatahan,United States,174,332,Aura OMI,20050612,15,5
+284200,Anatahan,United States,174,333,Aura OMI,20050613,15,6
+284200,Anatahan,United States,174,334,Aura OMI,20050614,12,3
+284200,Anatahan,United States,174,335,Aura OMI,20050615,8.2,3
+284200,Anatahan,United States,174,336,Aura OMI,20050616,6.4,3
+284200,Anatahan,United States,174,337,Aura OMI,20050617,2.1,3
+284200,Anatahan,United States,174,338,Aura OMI,20050618,7,3
+284200,Anatahan,United States,174,339,Aura OMI,20050619,12,15
+284200,Anatahan,United States,174,340,Aura OMI,20050620,5.5,3
+284200,Anatahan,United States,174,341,Aura OMI,20050621,4.5,3
+284200,Anatahan,United States,174,342,Aura OMI,20050622,2.2,3
+284200,Anatahan,United States,174,343,Aura OMI,20050623,11,3
+284200,Anatahan,United States,174,344,Aura OMI,20050624,13,3
+284200,Anatahan,United States,174,345,Aura OMI,20050625,14,3
+284200,Anatahan,United States,174,346,Aura OMI,20050626,8.2,4
+284200,Anatahan,United States,174,347,Aura OMI,20050627,4.2,4
+360050,Soufrière Hills,United Kingdom,342,348,Aura OMI,20050628,1,7
+284200,Anatahan,United States,174,349,Aura OMI,20050628,5.4,3
+284200,Anatahan,United States,174,350,Aura OMI,20050629,4.6,5
+284200,Anatahan,United States,174,351,Aura OMI,20050630,4.6,3
+284200,Anatahan,United States,174,352,Aura OMI,20050701,12,3
+284200,Anatahan,United States,174,353,Aura OMI,20050702,20,5
+284200,Anatahan,United States,174,354,Aura OMI,20050703,18,12
+360050,Soufrière Hills,United Kingdom,342,355,Aura OMI,20050703,4,7
+284200,Anatahan,United States,174,356,Aura OMI,20050704,18,6
+284200,Anatahan,United States,174,357,Aura OMI,20050705,11,8
+284200,Anatahan,United States,174,358,Aura OMI,20050706,13,12
+284200,Anatahan,United States,174,359,Aura OMI,20050707,19,8
+284200,Anatahan,United States,174,360,Aura OMI,20050708,17,4
+284200,Anatahan,United States,174,361,Aura OMI,20050709,15,4
+284200,Anatahan,United States,174,362,Aura OMI,20050710,16,10
+284200,Anatahan,United States,174,363,Aura OMI,20050711,36,8
+284200,Anatahan,United States,174,364,Aura OMI,20050712,23,11
+284200,Anatahan,United States,174,365,Aura OMI,20050713,47,12
+284200,Anatahan,United States,174,366,Aura OMI,20050714,32,10
+284200,Anatahan,United States,174,367,Aura OMI,20050715,15,7
+284200,Anatahan,United States,174,368,Aura OMI,20050716,15,7
+284200,Anatahan,United States,174,369,Aura OMI,20050717,6.8,7
+360050,Soufrière Hills,United Kingdom,342,370,Aura OMI,20050718,3,7
+284200,Anatahan,United States,174,371,Aura OMI,20050718,16,7
+284200,Anatahan,United States,174,372,Aura OMI,20050719,7.9,7
+284200,Anatahan,United States,174,373,Aura OMI,20050720,5.6,7
+284200,Anatahan,United States,174,374,Aura OMI,20050721,5,16
+284200,Anatahan,United States,174,375,Aura OMI,20050722,1.4,3
+284200,Anatahan,United States,174,376,Aura OMI,20050723,0.4,3
+284200,Anatahan,United States,174,377,Aura OMI,20050724,1,3
+284200,Anatahan,United States,174,378,Aura OMI,20050725,1.4,5
+284200,Anatahan,United States,174,379,Aura OMI,20050726,4.6,6
+284200,Anatahan,United States,174,380,Aura OMI,20050727,29,7
+284200,Anatahan,United States,174,381,Aura OMI,20050728,18,6
+284200,Anatahan,United States,174,382,Aura OMI,20050729,15,5
+284200,Anatahan,United States,174,383,Aura OMI,20050730,14,12
+284200,Anatahan,United States,174,384,Aura OMI,20050731,20,5
+284200,Anatahan,United States,174,385,Aura OMI,20050801,20,5
+284200,Anatahan,United States,174,386,Aura OMI,20050802,21,5
+284200,Anatahan,United States,174,387,Aura OMI,20050803,17,13
+284200,Anatahan,United States,174,388,Aura OMI,20050804,34,3
+284200,Anatahan,United States,174,389,Aura OMI,20050805,73,3
+284200,Anatahan,United States,174,390,Aura OMI,20050806,16,6
+284200,Anatahan,United States,174,391,Aura OMI,20050807,63,6
+284200,Anatahan,United States,174,392,Aura OMI,20050808,34,7
+284200,Anatahan,United States,174,393,Aura OMI,20050809,35,6
+284200,Anatahan,United States,174,394,Aura OMI,20050810,33,6
+284200,Anatahan,United States,174,395,Aura OMI,20050811,15,7
+284200,Anatahan,United States,174,396,Aura OMI,20050812,23,6
+284200,Anatahan,United States,174,397,Aura OMI,20050813,27,6
+284200,Anatahan,United States,174,398,Aura OMI,20050814,84,6
+284200,Anatahan,United States,174,399,Aura OMI,20050815,23,6
+284200,Anatahan,United States,174,400,Aura OMI,20050816,72,6
+284200,Anatahan,United States,174,401,Aura OMI,20050817,32,6
+284200,Anatahan,United States,174,402,Aura OMI,20050818,42,6
+284200,Anatahan,United States,174,403,Aura OMI,20050819,41,5
+284200,Anatahan,United States,174,404,Aura OMI,20050820,27,7
+284200,Anatahan,United States,174,405,Aura OMI,20050821,22,5
+284200,Anatahan,United States,174,406,Aura OMI,20050822,14,8
+284200,Anatahan,United States,174,407,Aura OMI,20050823,47,6
+284200,Anatahan,United States,174,408,Aura OMI,20050824,20,6
+284200,Anatahan,United States,174,409,Aura OMI,20050825,12,7
+284200,Anatahan,United States,174,410,Aura OMI,20050826,6.1,7
+284200,Anatahan,United States,174,411,Aura OMI,20050827,4,4
+284200,Anatahan,United States,174,412,Aura OMI,20050828,17,5
+284200,Anatahan,United States,174,413,Aura OMI,20050829,11,6
+284200,Anatahan,United States,174,414,Aura OMI,20050830,5.1,5
+284200,Anatahan,United States,174,415,Aura OMI,20050831,0.4,5
+284200,Anatahan,United States,174,416,Aura OMI,20050901,2.1,5
+284200,Anatahan,United States,174,417,Aura OMI,20050902,2.1,5
+284200,Anatahan,United States,174,418,Aura OMI,20050903,0.2,3
+343020,Santa Ana,El Salvador,288,419,Aura OMI,20051001,12,14
+353050,"Negra, Sierra",Ecuador,315,420,Aura OMI,20051023,1928,15
+342090,Fuego,Guatemala,277,422,Aura OMI,20051227,1,8
+266030,Soputan,Indonesia,139,423,Aura OMI,20051227,5,6
+313010,Augustine,United States,226,425,Aura OMI,20060129,10,10
+256010,Tinakula,Solomon Islands,99,426,Aura OMI,20060212,2,3
+251020,Manam,Papua New Guinea,86,427,Aura OMI,20060227,50,19
+273010,Bulusan,Philippines,159,428,Aura OMI,20060321,1,7
+260010,Barren Island,India,109,429,Aura OMI,20060405,0.2,5
+355100,Lascar,Chile,322,430,Aura OMI,20060418,2,8
+300250,Bezymianny,Russia,196,431,Aura OMI,20060509,5,15
+360050,Soufrière Hills,United Kingdom,343,432,Aura OMI,20060520,200,20
+311240,Cleveland,United States,212,433,Aura OMI,20060523,0.13,8
+352080,Tungurahua,Ecuador,305,436,Aura OMI,20060715,10,12
+352080,Tungurahua,Ecuador,306,438,Aura OMI,20060816,30,16
+233020,"Fournaise, Piton de la",France,65,439,Aura OMI,20060831,1,7.6
+312260,Fourpeaked,United States,224,440,Aura OMI,20060917,1,6
+252140,Rabaul,Papua New Guinea,97,441,Aura OMI,20061007,300,18
+211060,Etna,Italy,11,442,Aura OMI,20061116,1.5,4
+211060,Etna,Italy,11,443,Aura OMI,20061121,7.8,5
+223020,Nyamuragira,DR Congo,51,444,Aura OMI,20061127,675,15
+266030,Soputan,Indonesia,140,445,Aura OMI,20061214,10,12
+360050,Soufrière Hills,United Kingdom,344,446,Aura OMI,20070108,1,9
+233010,Karthala,Comoros,60,447,Aura OMI,20070112,0.6,7.4
+342090,Fuego,Guatemala,278,449,Aura OMI,20070315,2,6
+273010,Bulusan,Philippines,160,452,Aura OMI,20070408,0.5,4
+211060,Etna,Italy,13,455,Aura OMI,20070429,4,6
+211060,Etna,Italy,13,463,Aura OMI,20070507,2,8.4
+273010,Bulusan,Philippines,161,469,Aura OMI,20070512,1,6
+342090,Fuego,Guatemala,279,520,Aura OMI,20070701,2,4
+268040,Gamkonora,Indonesia,154,529,Aura OMI,20070709,1,6
+273010,Bulusan,Philippines,162,537,Aura OMI,20070731,1,7
+266030,Soputan,Indonesia,141,539,Aura OMI,20070814,5,3
+221010,"Tair, Jebel at",Yemen,31,542,Aura OMI,20070930,80,16
+300250,Bezymianny,Russia,197,543,Aura OMI,20071015,5,10
+266030,Soputan,Indonesia,142,544,Aura OMI,20071025,12,14
+252070,Krummel-Garbuna-Welcker,Papua New Guinea,90,545,Aura OMI,20071111,1,3
+342090,Fuego,Guatemala,280,547,Aura OMI,20071215,2,5
+353060,"Azul, Cerro",Ecuador,318,554,Aura OMI,20080530,157,3
+266030,Soputan,Indonesia,143,555,Aura OMI,20080606,33,14
+311290,Okmok,United States,214,556,Aura OMI,20080712,150,15
+360050,Soufrière Hills,United Kingdom,345,558,Aura OMI,20080729,3,12
+311130,Kasatochi,United States,210,559,Aura OMI,20080807,2000,15
+221060,Alu-Dalafilla,Ethiopia,33,561,Aura OMI,20081103,150,16
+360050,Soufrière Hills,United Kingdom,346,562,Aura OMI,20081203,5,12
+360050,Soufrière Hills,United Kingdom,347,563,Aura OMI,20090103,8,11
+357110,Llaima,Chile,327,569,Aura OMI,20090403,10,4
+353010,Fernandina,Ecuador,311,571,Aura OMI,20090411,521,3
+290240,Sarychev Peak,Russia,175,572,Aura OMI,20090615,1200,17
+300090,Koryaksky,Russia,184,574,Aura OMI,20090816,2,4
+300250,Bezymianny,Russia,198,575,Aura OMI,20091217,1,15
+233020,"Fournaise, Piton de la",France,67,577,Aura OMI,20100111,1,7.6
+360050,Soufrière Hills,United Kingdom,348,578,Aura OMI,20100212,30,18
+342110,Pacaya,Guatemala,286,580,Aura OMI,20100528,23,18
+233020,"Fournaise, Piton de la",France,68,581,Aura OMI,20101015,1,7.6
+300270,Sheveluch,Russia,207,582,Aura OMI,20101027,11,12
+263250,Merapi,Indonesia,118,583,Aura OMI,20101104,300,17
+263310,Tengger Caldera,Indonesia,122,584,Aura OMI,20101129,5,4
+211060,Etna,Italy,17,589,Aura OMI,20110112,7,7
+282090,Kirishimayama,Japan,167,590,Aura OMI,20110126,30,4
+263310,Tengger Caldera,Indonesia,124,591,Aura OMI,20110128,6,6
+263310,Tengger Caldera,Indonesia,124,592,Aura OMI,20110129,10,4
+263310,Tengger Caldera,Indonesia,124,593,Aura OMI,20110212,8,8
+211060,Etna,Italy,18,594,Aura OMI,20110218,8,8
+273010,Bulusan,Philippines,163,595,Aura OMI,20110221,1.2,5
+211060,Etna,Italy,19,596,Aura OMI,20110410,5,5
+357040,Planchon-Peteroa,Chile,323,597,Aura OMI,20110502,1,6
+211060,Etna,Italy,20,598,Aura OMI,20110512,6,6
+357150,Puyehue-Cordon Caulle,Chile,329,600,Aura OMI,20110604,200,14
+221101,Nabro,Eritrea,34,601,Aura OMI,20110613,3650,18
+266030,Soputan,Indonesia,145,602,Aura OMI,20110703,10,14
+211060,Etna,Italy,21,603,Aura OMI,20110709,2.7,7
+211060,Etna,Italy,21,604,Aura OMI,20110719,5,5
+211060,Etna,Italy,21,605,Aura OMI,20110725,2.9,7
+211060,Etna,Italy,21,606,Aura OMI,20110730,5,6
+211060,Etna,Italy,21,607,Aura OMI,20110805,6.4,11
+211060,Etna,Italy,21,608,Aura OMI,20110812,3.2,4
+266030,Soputan,Indonesia,146,609,Aura OMI,20110814,2,4
+211060,Etna,Italy,21,610,Aura OMI,20110820,3.6,9
+211060,Etna,Italy,21,611,Aura OMI,20110829,3.2,10
+211060,Etna,Italy,21,612,Aura OMI,20110908,9,10
+211060,Etna,Italy,21,613,Aura OMI,20110919,1.3,8
+211060,Etna,Italy,21,614,Aura OMI,20110928,3.1,11
+211060,Etna,Italy,21,615,Aura OMI,20111008,5,13.4
+211060,Etna,Italy,21,616,Aura OMI,20111023,2.3,6
+358057,"Hudson, Cerro",Chile,333,617,Aura OMI,20111026,1,11.9
+211060,Etna,Italy,22,619,Aura OMI,20111115,4.8,11
+221020,Zubair Group,Yemen,32,621,Aura OMI,20111218,1,5.2
+211060,Etna,Italy,23,622,Aura OMI,20120105,6.5,9
+211060,Etna,Italy,24,623,Aura OMI,20120209,1.1,9
+241080,Tongariro,New Zealand,75,629,Aura OMI,20120806,1,12
+266030,Soputan,Indonesia,147,630,Aura OMI,20120827,2,12
+300250,Bezymianny,Russia,199,631,Aura OMI,20120901,3,12
+344020,San Cristobal (Nicaragua),Nicaragua,290,632,Aura OMI,20120908,5,3.5
+342090,Fuego,Guatemala,281,633,Aura OMI,20120913,2,8
+344020,San Cristobal (Nicaragua),Nicaragua,291,637,Aura OMI,20121226,1,4.5
+264150,Paluweh,Indonesia,127,638,Aura OMI,20130202,40,17
+211060,Etna,Italy,26,639,Aura OMI,20130228,5,4
+251020,Manam,Papua New Guinea,87,640,Aura OMI,20130413,10,11.8
+211060,Etna,Italy,27,641,Aura OMI,20130427,7,4
+311240,Cleveland,United States,213,642,Aura OMI,20130505,1,5
+312030,Pavlof,United States,219,643,Aura OMI,20130625,5,12.5
+312070,Veniaminof,United States,223,644,Aura OMI,20130812,5,7
+211060,Etna,Italy,29,654,Aura OMI,20131117,10,4
+300260,Klyuchevskoy,Russia,205,655,Aura OMI,20131119,2,12
+211060,Etna,Italy,29,656,Aura OMI,20131123,5,8
+211060,Etna,Italy,29,657,Aura OMI,20131202,10,4
+211060,Etna,Italy,29,658,Aura OMI,20131214,5,4
+343100,San Miguel,El Salvador,289,659,Aura OMI,20131229,5,12.1
+211060,Etna,Italy,29,660,Aura OMI,20131230,10,4
+263280,Kelut,Indonesia,120,662,Aura OMI,20140213,200,19
+342110,Pacaya,Guatemala,287,663,Aura OMI,20140302,2,5
+264050,Sangeang Api,Indonesia,126,664,Aura OMI,20140530,100,17
+312030,Pavlof,United States,220,665,Aura OMI,20140603,10,12.5
+233020,"Fournaise, Piton de la",France,69,667,Aura OMI,20140621,1,7.6
+252140,Rabaul,Papua New Guinea,98,668,Aura OMI,20140829,31,18
+300270,Sheveluch,Russia,208,670,Aura OMI,20140924,5,12
+283040,Ontakesan,Japan,168,671,Aura OMI,20140927,1,10
+345070,Turrialba,Costa Rica,295,672,Aura OMI,20141030,3,5
+243040,Hunga Tonga-Hunga Ha'apai,Tonga,78,675,Aura OMI,20141224,14,3
+266030,Soputan,Indonesia,149,676,Aura OMI,20150202,2,6
+233020,"Fournaise, Piton de la",France,70,677,Aura OMI,20150204,3,7.6
+342090,Fuego,Guatemala,282,678,Aura OMI,20150207,2,5
+290360,Chikurachki,Russia,181,679,Aura OMI,20150216,5,8
+357120,Villarrica,Chile,328,685,Aura OMI,20150303,5,10
+358020,Calbuco,Chile,330,688,Suomi-NPP OMPS,20150422,400,20
+233020,"Fournaise, Piton de la",France,71,689,Aura OMI,20150518,2,7.6
+282050,Kuchinoerabujima,Japan,166,691,Aura OMI,20150529,4,9
+300120,Zhupanovsky,Russia,186,692,Aura OMI,20150712,10,10
+251020,Manam,Papua New Guinea,88,693,Aura OMI,20150731,50,19
+233020,"Fournaise, Piton de la",France,72,694,Aura OMI,20150731,2,7.6
+352050,Cotopaxi,Ecuador,301,695,Aura OMI,20150814,20,18
+233020,"Fournaise, Piton de la",France,73,696,Aura OMI,20150825,2,7.6
+344040,Telica,Nicaragua,292,697,Aura OMI,20151122,1,2.4
+344090,Momotombo,Nicaragua,294,698,Aura OMI,20151202,1.5,2
+342090,Fuego,Guatemala,283,700,Aura OMI,20160104,1,7
+266030,Soputan,Indonesia,150,701,Aura OMI,20160105,3,11.8
+342090,Fuego,Guatemala,283,702,Aura OMI,20160120,1,7
+266030,Soputan,Indonesia,151,703,Aura OMI,20160206,5,7
+342090,Fuego,Guatemala,284,704,Aura OMI,20160210,1,7
+290360,Chikurachki,Russia,182,706,Aura OMI,20160330,4,6.8
